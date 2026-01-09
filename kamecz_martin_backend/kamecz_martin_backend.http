@@ -1,0 +1,6 @@
+@kamecz_martin_backend_HostAddress = http://localhost:5015
+
+GET {{kamecz_martin_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
